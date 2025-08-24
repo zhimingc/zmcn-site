@@ -4,5 +4,5 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://zhimingc.github.io',
-    base: '/my-repo',
+    base: '/zmcn-site',
 });
